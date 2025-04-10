@@ -1,0 +1,13 @@
+{
+  "fortigate_ha_primary_ip": "192.168.1.1",
+  "fortigate_ha_secondary_ip": "192.168.1.2",
+  "fortigate_admin_username": "admin",
+  "fortigate_admin_password": "your_password_here",
+  "fortigate_vdom": "root",
+  "fortigate_region": "us-west-1",
+  "fortigate_instance_type": "t2.medium",
+  "fortigate_ami": "ami-0abcdef1234567890",
+  "fortigate_key_pair": "your_key_pair_name",
+  "fortigate_subnet_id": "subnet-0abcdef1234567890",
+  "fortigate_security_group": "sg-0abcdef1234567890"
+}

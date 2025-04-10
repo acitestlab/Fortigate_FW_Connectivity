@@ -1,0 +1,7 @@
+vpn_cidr = "10.0.0.0/24"
+fortigate_public_ip = "YOUR_FORTIGATE_PUBLIC_IP"
+aws_region = "us-west-2"
+vpn_name = "Fortigate-AWS-VPN"
+customer_gateway_id = "YOUR_CUSTOMER_GATEWAY_ID"
+vpn_gateway_id = "YOUR_VPN_GATEWAY_ID"
+pre_shared_key = "YOUR_PRE_SHARED_KEY"

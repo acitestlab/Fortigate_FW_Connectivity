@@ -1,0 +1,8 @@
+region = "us-east-1"
+vpc_cidr = "10.0.0.0/16"
+subnet_cidr = "10.0.1.0/24"
+fortigate_instance_type = "t2.medium"
+fortigate_ami = "ami-0abcdef1234567890"
+ha_mode = "active-active"
+admin_username = "admin"
+admin_password = "your_secure_password"

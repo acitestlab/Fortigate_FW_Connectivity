@@ -1,0 +1,8 @@
+fortigate_hostname = "192.168.1.99"
+fortigate_username = "admin"
+fortigate_password = "password"
+dmz_ip             = "192.168.10.1/24"
+internal_ip        = "192.168.20.1/24"
+external_ip        = "192.168.30.1/24"
+wan_router_ip      = "192.168.30.254"
+ospf_area          = "0.0.0.0"

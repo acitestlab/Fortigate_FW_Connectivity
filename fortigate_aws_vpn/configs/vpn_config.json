@@ -1,0 +1,4 @@
+{
+    "fortigate_public_ip": "203.0.113.1",
+    "fortigate_address_space": ["192.168.1.0/24"]
+}
